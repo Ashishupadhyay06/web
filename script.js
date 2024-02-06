@@ -1,0 +1,10 @@
+gsap.to("#box",{
+       x:1000,
+       y:500,
+       duration:2,
+       delay:1,
+       repeat:-1,
+       yoyo:true,
+       height:200,
+       width:200
+})
